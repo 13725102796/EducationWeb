@@ -1,0 +1,687 @@
+0 info it worked if it ends with ok
+1 verbose cli [ 'C:\\Program Files\\nodejs\\node.exe',
+1 verbose cli   'C:\\Program Files\\nodejs\\node_modules\\npm\\bin\\npm-cli.js',
+1 verbose cli   'install',
+1 verbose cli   'path',
+1 verbose cli   '-sav' ]
+2 info using npm@2.15.1
+3 info using node@v4.4.3
+4 verbose install initial load of C:\Users\Administrator\Desktop\node训练\blogs\package.json
+5 warn package.json blogs@1.0.0 No repository field.
+6 warn package.json blogs@1.0.0 No README data
+7 verbose installManyTop reading scoped package data from C:\Users\Administrator\Desktop\node训练\blogs\node_modules\append-field\package.json
+8 verbose installManyTop reading scoped package data from C:\Users\Administrator\Desktop\node训练\blogs\node_modules\body-parser\package.json
+9 verbose installManyTop reading scoped package data from C:\Users\Administrator\Desktop\node训练\blogs\node_modules\busboy\package.json
+10 verbose installManyTop reading scoped package data from C:\Users\Administrator\Desktop\node训练\blogs\node_modules\bytes\package.json
+11 verbose installManyTop reading scoped package data from C:\Users\Administrator\Desktop\node训练\blogs\node_modules\concat-stream\package.json
+12 verbose installManyTop reading scoped package data from C:\Users\Administrator\Desktop\node训练\blogs\node_modules\consolidate\package.json
+13 verbose installManyTop reading scoped package data from C:\Users\Administrator\Desktop\node训练\blogs\node_modules\content-disposition\package.json
+14 verbose installManyTop reading scoped package data from C:\Users\Administrator\Desktop\node训练\blogs\node_modules\content-type\package.json
+15 verbose installManyTop reading scoped package data from C:\Users\Administrator\Desktop\node训练\blogs\node_modules\cookie\package.json
+16 verbose installManyTop reading scoped package data from C:\Users\Administrator\Desktop\node训练\blogs\node_modules\cookie-parser\package.json
+17 verbose installManyTop reading scoped package data from C:\Users\Administrator\Desktop\node训练\blogs\node_modules\cookie-session\package.json
+18 verbose installManyTop reading scoped package data from C:\Users\Administrator\Desktop\node训练\blogs\node_modules\cookie-signature\package.json
+19 verbose installManyTop reading scoped package data from C:\Users\Administrator\Desktop\node训练\blogs\node_modules\ejs\package.json
+20 verbose installManyTop reading scoped package data from C:\Users\Administrator\Desktop\node训练\blogs\node_modules\encodeurl\package.json
+21 verbose installManyTop reading scoped package data from C:\Users\Administrator\Desktop\node训练\blogs\node_modules\express\package.json
+22 verbose installManyTop reading scoped package data from C:\Users\Administrator\Desktop\node训练\blogs\node_modules\express-route\package.json
+23 verbose installManyTop reading scoped package data from C:\Users\Administrator\Desktop\node训练\blogs\node_modules\express-static\package.json
+24 verbose installManyTop reading scoped package data from C:\Users\Administrator\Desktop\node训练\blogs\node_modules\grunt\package.json
+25 verbose installManyTop reading scoped package data from C:\Users\Administrator\Desktop\node训练\blogs\node_modules\grunt-concurrent\package.json
+26 verbose installManyTop reading scoped package data from C:\Users\Administrator\Desktop\node训练\blogs\node_modules\grunt-contrib-jshint\package.json
+27 verbose installManyTop reading scoped package data from C:\Users\Administrator\Desktop\node训练\blogs\node_modules\grunt-contrib-nodeunit\package.json
+28 verbose installManyTop reading scoped package data from C:\Users\Administrator\Desktop\node训练\blogs\node_modules\grunt-contrib-watch\package.json
+29 verbose installManyTop reading scoped package data from C:\Users\Administrator\Desktop\node训练\blogs\node_modules\grunt-nodemon\package.json
+30 verbose installManyTop reading scoped package data from C:\Users\Administrator\Desktop\node训练\blogs\node_modules\http-errors\package.json
+31 verbose installManyTop reading scoped package data from C:\Users\Administrator\Desktop\node训练\blogs\node_modules\inherits\package.json
+32 verbose installManyTop reading scoped package data from C:\Users\Administrator\Desktop\node训练\blogs\node_modules\isarray\package.json
+33 verbose installManyTop reading scoped package data from C:\Users\Administrator\Desktop\node训练\blogs\node_modules\mime\package.json
+34 verbose installManyTop reading scoped package data from C:\Users\Administrator\Desktop\node训练\blogs\node_modules\mkdirp\package.json
+35 verbose installManyTop reading scoped package data from C:\Users\Administrator\Desktop\node训练\blogs\node_modules\multer\package.json
+36 verbose installManyTop reading scoped package data from C:\Users\Administrator\Desktop\node训练\blogs\node_modules\mysql\package.json
+37 verbose installManyTop reading scoped package data from C:\Users\Administrator\Desktop\node训练\blogs\node_modules\object-assign\package.json
+38 verbose installManyTop reading scoped package data from C:\Users\Administrator\Desktop\node训练\blogs\node_modules\on-finished\package.json
+39 verbose installManyTop reading scoped package data from C:\Users\Administrator\Desktop\node训练\blogs\node_modules\process-nextick-args\package.json
+40 verbose installManyTop reading scoped package data from C:\Users\Administrator\Desktop\node训练\blogs\node_modules\readable-stream\package.json
+41 verbose installManyTop reading scoped package data from C:\Users\Administrator\Desktop\node训练\blogs\node_modules\string_decoder\package.json
+42 verbose installManyTop reading scoped package data from C:\Users\Administrator\Desktop\node训练\blogs\node_modules\type-is\package.json
+43 verbose installManyTop reading scoped package data from C:\Users\Administrator\Desktop\node训练\blogs\node_modules\typedarray\package.json
+44 verbose installManyTop reading scoped package data from C:\Users\Administrator\Desktop\node训练\blogs\node_modules\util-deprecate\package.json
+45 verbose installManyTop reading scoped package data from C:\Users\Administrator\Desktop\node训练\blogs\node_modules\xtend\package.json
+46 info package.json express-static@1.0.3 No description
+47 info package.json grunt-contrib-nodeunit@0.1.2 No license field.
+48 info package.json busboy@0.2.14 No license field.
+49 info package.json grunt-contrib-jshint@0.1.1 No license field.
+50 info package.json string_decoder@0.10.31 string_decoder is also the name of a node core module.
+51 verbose readDependencies loading dependencies from C:\Users\Administrator\Desktop\node训练\blogs\package.json
+52 silly cache add args [ 'path', null ]
+53 verbose cache add spec path
+54 silly cache add parsed spec Result {
+54 silly cache add   raw: 'path',
+54 silly cache add   scope: null,
+54 silly cache add   name: 'path',
+54 silly cache add   rawSpec: '',
+54 silly cache add   spec: 'latest',
+54 silly cache add   type: 'tag' }
+55 silly addNamed path@latest
+56 verbose addNamed "latest" is being treated as a dist-tag for path
+57 info addNameTag [ 'path', 'latest' ]
+58 silly mapToRegistry name path
+59 silly mapToRegistry using default registry
+60 silly mapToRegistry registry https://registry.npmjs.org/
+61 silly mapToRegistry data Result {
+61 silly mapToRegistry   raw: 'path',
+61 silly mapToRegistry   scope: null,
+61 silly mapToRegistry   name: 'path',
+61 silly mapToRegistry   rawSpec: '',
+61 silly mapToRegistry   spec: 'latest',
+61 silly mapToRegistry   type: 'tag' }
+62 silly mapToRegistry uri https://registry.npmjs.org/path
+63 verbose addNameTag registry:https://registry.npmjs.org/path not in flight; fetching
+64 verbose request uri https://registry.npmjs.org/path
+65 verbose request no auth needed
+66 info attempt registry request try #1 at 21:26:54
+67 verbose request id 2fc452fd13cd1618
+68 verbose etag "21FYDJQ4J83TC6ADEI6BRIFQF"
+69 http request GET https://registry.npmjs.org/path
+70 http 200 https://registry.npmjs.org/path
+71 verbose headers { server: 'nginx/1.10.1',
+71 verbose headers   'content-type': 'application/json',
+71 verbose headers   'last-modified': 'Sun, 19 Mar 2017 13:16:04 GMT',
+71 verbose headers   etag: 'W/"58ce8494-16b3"',
+71 verbose headers   'content-encoding': 'gzip',
+71 verbose headers   'cache-control': 'max-age=300',
+71 verbose headers   'content-length': '1747',
+71 verbose headers   'accept-ranges': 'bytes',
+71 verbose headers   date: 'Thu, 23 Mar 2017 13:26:54 GMT',
+71 verbose headers   via: '1.1 varnish',
+71 verbose headers   age: '227',
+71 verbose headers   connection: 'keep-alive',
+71 verbose headers   'x-served-by': 'cache-nrt6131-NRT',
+71 verbose headers   'x-cache': 'HIT',
+71 verbose headers   'x-cache-hits': '1',
+71 verbose headers   'x-timer': 'S1490275614.705964,VS0,VE0',
+71 verbose headers   vary: 'Accept-Encoding' }
+72 silly get cb [ 200,
+72 silly get   { server: 'nginx/1.10.1',
+72 silly get     'content-type': 'application/json',
+72 silly get     'last-modified': 'Sun, 19 Mar 2017 13:16:04 GMT',
+72 silly get     etag: 'W/"58ce8494-16b3"',
+72 silly get     'content-encoding': 'gzip',
+72 silly get     'cache-control': 'max-age=300',
+72 silly get     'content-length': '1747',
+72 silly get     'accept-ranges': 'bytes',
+72 silly get     date: 'Thu, 23 Mar 2017 13:26:54 GMT',
+72 silly get     via: '1.1 varnish',
+72 silly get     age: '227',
+72 silly get     connection: 'keep-alive',
+72 silly get     'x-served-by': 'cache-nrt6131-NRT',
+72 silly get     'x-cache': 'HIT',
+72 silly get     'x-cache-hits': '1',
+72 silly get     'x-timer': 'S1490275614.705964,VS0,VE0',
+72 silly get     vary: 'Accept-Encoding' } ]
+73 verbose get saving path to C:\Users\Administrator\AppData\Roaming\npm-cache\registry.npmjs.org\path\.cache.json
+74 verbose correctMkdir C:\Users\Administrator\AppData\Roaming\npm-cache correctMkdir not in flight; initializing
+75 silly addNameTag next cb for path with tag latest
+76 silly addNamed path@0.12.7
+77 verbose addNamed "0.12.7" is a plain semver version for path
+78 silly cache afterAdd path@0.12.7
+79 verbose afterAdd C:\Users\Administrator\AppData\Roaming\npm-cache\path\0.12.7\package\package.json not in flight; writing
+80 verbose correctMkdir C:\Users\Administrator\AppData\Roaming\npm-cache correctMkdir not in flight; initializing
+81 verbose afterAdd C:\Users\Administrator\AppData\Roaming\npm-cache\path\0.12.7\package\package.json written
+82 silly install resolved [ { author: { name: 'Joyent', url: 'http://www.joyent.com' },
+82 silly install resolved     name: 'path',
+82 silly install resolved     description: 'Node.JS path module',
+82 silly install resolved     keywords: [ 'ender', 'path' ],
+82 silly install resolved     license: 'MIT',
+82 silly install resolved     version: '0.12.7',
+82 silly install resolved     homepage: 'http://nodejs.org/docs/latest/api/path.html',
+82 silly install resolved     repository: { type: 'git', url: 'git://github.com/jinder/path.git' },
+82 silly install resolved     main: './path.js',
+82 silly install resolved     dependencies: { process: '^0.11.1', util: '^0.10.3' },
+82 silly install resolved     gitHead: '7fbaede3ca9d224494cbdd47d7ca803ee96d2055',
+82 silly install resolved     bugs: { url: 'https://github.com/jinder/path/issues' },
+82 silly install resolved     _id: 'path@0.12.7',
+82 silly install resolved     scripts: {},
+82 silly install resolved     _shasum: 'd4dc2a506c4ce2197eb481ebfcd5b36c0140b10f',
+82 silly install resolved     _from: 'path@latest',
+82 silly install resolved     _npmVersion: '2.11.3',
+82 silly install resolved     _nodeVersion: '0.12.7',
+82 silly install resolved     _npmUser: { name: 'jinder', email: 'jindersidhu@gmail.com' },
+82 silly install resolved     dist:
+82 silly install resolved      { shasum: 'd4dc2a506c4ce2197eb481ebfcd5b36c0140b10f',
+82 silly install resolved        tarball: 'https://registry.npmjs.org/path/-/path-0.12.7.tgz' },
+82 silly install resolved     maintainers: [ [Object], [Object], [Object] ],
+82 silly install resolved     directories: {},
+82 silly install resolved     _resolved: 'https://registry.npmjs.org/path/-/path-0.12.7.tgz',
+82 silly install resolved     readme: 'ERROR: No README data found!' } ]
+83 info install path@0.12.7 into C:\Users\Administrator\Desktop\node训练\blogs
+84 info installOne path@0.12.7
+85 verbose installOne of path to C:\Users\Administrator\Desktop\node训练\blogs not in flight; installing
+86 verbose correctMkdir C:\Users\Administrator\AppData\Roaming\npm-cache\_locks correctMkdir not in flight; initializing
+87 verbose lock using C:\Users\Administrator\AppData\Roaming\npm-cache\_locks\path-e0bae3467de0e485.lock for C:\Users\Administrator\Desktop\node训练\blogs\node_modules\path
+88 silly install write writing path 0.12.7 to C:\Users\Administrator\Desktop\node训练\blogs\node_modules\path
+89 verbose unbuild node_modules\path
+90 silly gentlyRm C:\Users\Administrator\Desktop\node训练\blogs\node_modules\path is being purged from base C:\Users\Administrator\Desktop\node训练\blogs
+91 verbose gentlyRm don't care about contents; nuking C:\Users\Administrator\Desktop\node训练\blogs\node_modules\path
+92 verbose tar unpack C:\Users\Administrator\AppData\Roaming\npm-cache\path\0.12.7\package.tgz
+93 verbose tar unpacking to C:\Users\Administrator\Desktop\node训练\blogs\node_modules\path
+94 silly gentlyRm C:\Users\Administrator\Desktop\node训练\blogs\node_modules\path is being purged
+95 verbose gentlyRm don't care about contents; nuking C:\Users\Administrator\Desktop\node训练\blogs\node_modules\path
+96 silly gunzTarPerm modes [ '777', '666' ]
+97 silly gunzTarPerm extractEntry package.json
+98 silly gunzTarPerm extractEntry .npmignore
+99 silly gunzTarPerm extractEntry README.md
+100 silly gunzTarPerm extractEntry LICENSE
+101 silly gunzTarPerm extractEntry path.js
+102 verbose write writing to C:\Users\Administrator\Desktop\node训练\blogs\node_modules\path\package.json
+103 info preinstall path@0.12.7
+104 verbose readDependencies loading dependencies from C:\Users\Administrator\Desktop\node训练\blogs\node_modules\path\package.json
+105 silly prepareForInstallMany adding process@^0.11.1 from path dependencies
+106 silly prepareForInstallMany adding util@^0.10.3 from path dependencies
+107 verbose readDependencies loading dependencies from C:\Users\Administrator\Desktop\node训练\blogs\node_modules\path\package.json
+108 silly cache add args [ 'process@^0.11.1', null ]
+109 verbose cache add spec process@^0.11.1
+110 silly cache add args [ 'util@^0.10.3', null ]
+111 verbose cache add spec util@^0.10.3
+112 silly cache add parsed spec Result {
+112 silly cache add   raw: 'process@^0.11.1',
+112 silly cache add   scope: null,
+112 silly cache add   name: 'process',
+112 silly cache add   rawSpec: '^0.11.1',
+112 silly cache add   spec: '>=0.11.1 <0.12.0',
+112 silly cache add   type: 'range' }
+113 silly addNamed process@>=0.11.1 <0.12.0
+114 verbose addNamed ">=0.11.1 <0.12.0" is a valid semver range for process
+115 silly addNameRange { name: 'process', range: '>=0.11.1 <0.12.0', hasData: false }
+116 silly mapToRegistry name process
+117 silly mapToRegistry using default registry
+118 silly mapToRegistry registry https://registry.npmjs.org/
+119 silly mapToRegistry data Result {
+119 silly mapToRegistry   raw: 'process',
+119 silly mapToRegistry   scope: null,
+119 silly mapToRegistry   name: 'process',
+119 silly mapToRegistry   rawSpec: '',
+119 silly mapToRegistry   spec: 'latest',
+119 silly mapToRegistry   type: 'tag' }
+120 silly mapToRegistry uri https://registry.npmjs.org/process
+121 verbose addNameRange registry:https://registry.npmjs.org/process not in flight; fetching
+122 silly cache add parsed spec Result {
+122 silly cache add   raw: 'util@^0.10.3',
+122 silly cache add   scope: null,
+122 silly cache add   name: 'util',
+122 silly cache add   rawSpec: '^0.10.3',
+122 silly cache add   spec: '>=0.10.3 <0.11.0',
+122 silly cache add   type: 'range' }
+123 silly addNamed util@>=0.10.3 <0.11.0
+124 verbose addNamed ">=0.10.3 <0.11.0" is a valid semver range for util
+125 silly addNameRange { name: 'util', range: '>=0.10.3 <0.11.0', hasData: false }
+126 silly mapToRegistry name util
+127 silly mapToRegistry using default registry
+128 silly mapToRegistry registry https://registry.npmjs.org/
+129 silly mapToRegistry data Result {
+129 silly mapToRegistry   raw: 'util',
+129 silly mapToRegistry   scope: null,
+129 silly mapToRegistry   name: 'util',
+129 silly mapToRegistry   rawSpec: '',
+129 silly mapToRegistry   spec: 'latest',
+129 silly mapToRegistry   type: 'tag' }
+130 silly mapToRegistry uri https://registry.npmjs.org/util
+131 verbose addNameRange registry:https://registry.npmjs.org/util not in flight; fetching
+132 verbose request uri https://registry.npmjs.org/process
+133 verbose request no auth needed
+134 info attempt registry request try #1 at 21:26:55
+135 verbose etag "71CV28LZOVHQKLHNIQI0MDX17"
+136 http request GET https://registry.npmjs.org/process
+137 verbose request uri https://registry.npmjs.org/util
+138 verbose request no auth needed
+139 info attempt registry request try #1 at 21:26:55
+140 verbose etag "DD9HTJ0VVV6C5AEF6SH6L35OP"
+141 http request GET https://registry.npmjs.org/util
+142 http 200 https://registry.npmjs.org/process
+143 verbose headers { server: 'nginx/1.10.1',
+143 verbose headers   'content-type': 'application/json',
+143 verbose headers   'last-modified': 'Fri, 11 Nov 2016 09:25:50 GMT',
+143 verbose headers   etag: 'W/"58258e9e-5c13"',
+143 verbose headers   'content-encoding': 'gzip',
+143 verbose headers   'cache-control': 'max-age=300',
+143 verbose headers   'content-length': '3810',
+143 verbose headers   'accept-ranges': 'bytes',
+143 verbose headers   date: 'Thu, 23 Mar 2017 13:26:55 GMT',
+143 verbose headers   via: '1.1 varnish',
+143 verbose headers   age: '287',
+143 verbose headers   connection: 'keep-alive',
+143 verbose headers   'x-served-by': 'cache-nrt6131-NRT',
+143 verbose headers   'x-cache': 'HIT',
+143 verbose headers   'x-cache-hits': '4',
+143 verbose headers   'x-timer': 'S1490275615.009277,VS0,VE0',
+143 verbose headers   vary: 'Accept-Encoding' }
+144 silly get cb [ 200,
+144 silly get   { server: 'nginx/1.10.1',
+144 silly get     'content-type': 'application/json',
+144 silly get     'last-modified': 'Fri, 11 Nov 2016 09:25:50 GMT',
+144 silly get     etag: 'W/"58258e9e-5c13"',
+144 silly get     'content-encoding': 'gzip',
+144 silly get     'cache-control': 'max-age=300',
+144 silly get     'content-length': '3810',
+144 silly get     'accept-ranges': 'bytes',
+144 silly get     date: 'Thu, 23 Mar 2017 13:26:55 GMT',
+144 silly get     via: '1.1 varnish',
+144 silly get     age: '287',
+144 silly get     connection: 'keep-alive',
+144 silly get     'x-served-by': 'cache-nrt6131-NRT',
+144 silly get     'x-cache': 'HIT',
+144 silly get     'x-cache-hits': '4',
+144 silly get     'x-timer': 'S1490275615.009277,VS0,VE0',
+144 silly get     vary: 'Accept-Encoding' } ]
+145 verbose get saving process to C:\Users\Administrator\AppData\Roaming\npm-cache\registry.npmjs.org\process\.cache.json
+146 verbose correctMkdir C:\Users\Administrator\AppData\Roaming\npm-cache correctMkdir not in flight; initializing
+147 silly addNameRange number 2 { name: 'process', range: '>=0.11.1 <0.12.0', hasData: true }
+148 silly addNameRange versions [ 'process',
+148 silly addNameRange   [ '0.4.9',
+148 silly addNameRange     '0.5.0',
+148 silly addNameRange     '0.5.1',
+148 silly addNameRange     '0.5.2',
+148 silly addNameRange     '0.6.0',
+148 silly addNameRange     '0.7.0',
+148 silly addNameRange     '0.8.0',
+148 silly addNameRange     '0.9.0',
+148 silly addNameRange     '0.10.0',
+148 silly addNameRange     '0.10.1',
+148 silly addNameRange     '0.11.0',
+148 silly addNameRange     '0.11.1',
+148 silly addNameRange     '0.11.2',
+148 silly addNameRange     '0.11.3',
+148 silly addNameRange     '0.11.4',
+148 silly addNameRange     '0.11.5',
+148 silly addNameRange     '0.11.6',
+148 silly addNameRange     '0.11.7',
+148 silly addNameRange     '0.11.8',
+148 silly addNameRange     '0.11.9' ] ]
+149 silly addNamed process@0.11.9
+150 verbose addNamed "0.11.9" is a plain semver version for process
+151 silly cache afterAdd process@0.11.9
+152 verbose afterAdd C:\Users\Administrator\AppData\Roaming\npm-cache\process\0.11.9\package\package.json not in flight; writing
+153 verbose correctMkdir C:\Users\Administrator\AppData\Roaming\npm-cache correctMkdir not in flight; initializing
+154 verbose afterAdd C:\Users\Administrator\AppData\Roaming\npm-cache\process\0.11.9\package\package.json written
+155 http 200 https://registry.npmjs.org/util
+156 verbose headers { server: 'nginx/1.10.1',
+156 verbose headers   'content-type': 'application/json',
+156 verbose headers   'last-modified': 'Mon, 13 Mar 2017 01:56:15 GMT',
+156 verbose headers   etag: 'W/"58c5fc3f-18ed"',
+156 verbose headers   'content-encoding': 'gzip',
+156 verbose headers   'cache-control': 'max-age=300',
+156 verbose headers   'content-length': '1609',
+156 verbose headers   'accept-ranges': 'bytes',
+156 verbose headers   date: 'Thu, 23 Mar 2017 13:26:55 GMT',
+156 verbose headers   via: '1.1 varnish',
+156 verbose headers   age: '298',
+156 verbose headers   connection: 'keep-alive',
+156 verbose headers   'x-served-by': 'cache-nrt6125-NRT',
+156 verbose headers   'x-cache': 'HIT',
+156 verbose headers   'x-cache-hits': '2',
+156 verbose headers   'x-timer': 'S1490275615.342610,VS0,VE0',
+156 verbose headers   vary: 'Accept-Encoding' }
+157 silly get cb [ 200,
+157 silly get   { server: 'nginx/1.10.1',
+157 silly get     'content-type': 'application/json',
+157 silly get     'last-modified': 'Mon, 13 Mar 2017 01:56:15 GMT',
+157 silly get     etag: 'W/"58c5fc3f-18ed"',
+157 silly get     'content-encoding': 'gzip',
+157 silly get     'cache-control': 'max-age=300',
+157 silly get     'content-length': '1609',
+157 silly get     'accept-ranges': 'bytes',
+157 silly get     date: 'Thu, 23 Mar 2017 13:26:55 GMT',
+157 silly get     via: '1.1 varnish',
+157 silly get     age: '298',
+157 silly get     connection: 'keep-alive',
+157 silly get     'x-served-by': 'cache-nrt6125-NRT',
+157 silly get     'x-cache': 'HIT',
+157 silly get     'x-cache-hits': '2',
+157 silly get     'x-timer': 'S1490275615.342610,VS0,VE0',
+157 silly get     vary: 'Accept-Encoding' } ]
+158 verbose get saving util to C:\Users\Administrator\AppData\Roaming\npm-cache\registry.npmjs.org\util\.cache.json
+159 verbose correctMkdir C:\Users\Administrator\AppData\Roaming\npm-cache correctMkdir not in flight; initializing
+160 silly addNameRange number 2 { name: 'util', range: '>=0.10.3 <0.11.0', hasData: true }
+161 silly addNameRange versions [ 'util', [ '0.4.9', '0.10.0', '0.10.1', '0.10.2', '0.10.3' ] ]
+162 silly addNamed util@0.10.3
+163 verbose addNamed "0.10.3" is a plain semver version for util
+164 silly cache afterAdd util@0.10.3
+165 verbose afterAdd C:\Users\Administrator\AppData\Roaming\npm-cache\util\0.10.3\package\package.json not in flight; writing
+166 verbose correctMkdir C:\Users\Administrator\AppData\Roaming\npm-cache correctMkdir not in flight; initializing
+167 verbose afterAdd C:\Users\Administrator\AppData\Roaming\npm-cache\util\0.10.3\package\package.json written
+168 silly install resolved [ { author: { name: 'Roman Shtylman', email: 'shtylman@gmail.com' },
+168 silly install resolved     name: 'process',
+168 silly install resolved     description: 'process information for node.js and browsers',
+168 silly install resolved     keywords: [ 'process' ],
+168 silly install resolved     scripts:
+168 silly install resolved      { test: 'mocha test.js',
+168 silly install resolved        browser: 'zuul --no-coverage --ui mocha-bdd --local 8080 -- test.js' },
+168 silly install resolved     version: '0.11.9',
+168 silly install resolved     repository:
+168 silly install resolved      { type: 'git',
+168 silly install resolved        url: 'git://github.com/shtylman/node-process.git' },
+168 silly install resolved     license: 'MIT',
+168 silly install resolved     browser: './browser.js',
+168 silly install resolved     main: './index.js',
+168 silly install resolved     engines: { node: '>= 0.6.0' },
+168 silly install resolved     devDependencies: { mocha: '2.2.1', zuul: '^3.10.3' },
+168 silly install resolved     gitHead: '7d8c3702a8bbc43fa55f4bab74b150aef37001dd',
+168 silly install resolved     bugs: { url: 'https://github.com/shtylman/node-process/issues' },
+168 silly install resolved     _id: 'process@0.11.9',
+168 silly install resolved     _shasum: '7bd5ad21aa6253e7da8682264f1e11d11c0318c1',
+168 silly install resolved     _from: 'process@>=0.11.1 <0.12.0',
+168 silly install resolved     _npmVersion: '3.8.6',
+168 silly install resolved     _nodeVersion: '5.12.0',
+168 silly install resolved     _npmUser: { name: 'cwmma', email: 'calvin.metcalf@gmail.com' },
+168 silly install resolved     dist:
+168 silly install resolved      { shasum: '7bd5ad21aa6253e7da8682264f1e11d11c0318c1',
+168 silly install resolved        tarball: 'https://registry.npmjs.org/process/-/process-0.11.9.tgz' },
+168 silly install resolved     maintainers: [ [Object], [Object], [Object] ],
+168 silly install resolved     _npmOperationalInternal:
+168 silly install resolved      { host: 'packages-16-east.internal.npmjs.com',
+168 silly install resolved        tmp: 'tmp/process-0.11.9.tgz_1472587751718_0.8843140550889075' },
+168 silly install resolved     directories: {},
+168 silly install resolved     _resolved: 'https://registry.npmjs.org/process/-/process-0.11.9.tgz',
+168 silly install resolved     readme: 'ERROR: No README data found!',
+168 silly install resolved     homepage: 'https://github.com/shtylman/node-process#readme' },
+168 silly install resolved   { author: { name: 'Joyent', url: 'http://www.joyent.com' },
+168 silly install resolved     name: 'util',
+168 silly install resolved     description: 'Node.JS util module',
+168 silly install resolved     keywords: [ 'util' ],
+168 silly install resolved     version: '0.10.3',
+168 silly install resolved     homepage: 'https://github.com/defunctzombie/node-util',
+168 silly install resolved     repository:
+168 silly install resolved      { type: 'git',
+168 silly install resolved        url: 'git://github.com/defunctzombie/node-util.git' },
+168 silly install resolved     main: './util.js',
+168 silly install resolved     scripts: { test: 'node test/node/*.js && zuul test/browser/*.js' },
+168 silly install resolved     dependencies: { inherits: '2.0.1' },
+168 silly install resolved     license: 'MIT',
+168 silly install resolved     devDependencies: { zuul: '~1.0.9' },
+168 silly install resolved     browser: { './support/isBuffer.js': './support/isBufferBrowser.js' },
+168 silly install resolved     bugs: { url: 'https://github.com/defunctzombie/node-util/issues' },
+168 silly install resolved     _id: 'util@0.10.3',
+168 silly install resolved     dist:
+168 silly install resolved      { shasum: '7afb1afe50805246489e3db7fe0ed379336ac0f9',
+168 silly install resolved        tarball: 'https://registry.npmjs.org/util/-/util-0.10.3.tgz' },
+168 silly install resolved     _from: 'util@>=0.10.3 <0.11.0',
+168 silly install resolved     _npmVersion: '1.3.24',
+168 silly install resolved     _npmUser: { name: 'shtylman', email: 'shtylman@gmail.com' },
+168 silly install resolved     maintainers: [ [Object] ],
+168 silly install resolved     directories: {},
+168 silly install resolved     _shasum: '7afb1afe50805246489e3db7fe0ed379336ac0f9',
+168 silly install resolved     _resolved: 'https://registry.npmjs.org/util/-/util-0.10.3.tgz',
+168 silly install resolved     readme: 'ERROR: No README data found!' } ]
+169 info install process@0.11.9 into C:\Users\Administrator\Desktop\node训练\blogs\node_modules\path
+170 info install util@0.10.3 into C:\Users\Administrator\Desktop\node训练\blogs\node_modules\path
+171 info installOne process@0.11.9
+172 verbose installOne of process to C:\Users\Administrator\Desktop\node训练\blogs\node_modules\path not in flight; installing
+173 verbose correctMkdir C:\Users\Administrator\AppData\Roaming\npm-cache\_locks correctMkdir not in flight; initializing
+174 info installOne util@0.10.3
+175 verbose installOne of util to C:\Users\Administrator\Desktop\node训练\blogs\node_modules\path not in flight; installing
+176 verbose correctMkdir C:\Users\Administrator\AppData\Roaming\npm-cache\_locks correctMkdir not in flight; initializing
+177 verbose lock using C:\Users\Administrator\AppData\Roaming\npm-cache\_locks\process-6d83f2f3275fe63f.lock for C:\Users\Administrator\Desktop\node训练\blogs\node_modules\path\node_modules\process
+178 verbose lock using C:\Users\Administrator\AppData\Roaming\npm-cache\_locks\util-50f50a1c1bc19f5c.lock for C:\Users\Administrator\Desktop\node训练\blogs\node_modules\path\node_modules\util
+179 silly install write writing process 0.11.9 to C:\Users\Administrator\Desktop\node训练\blogs\node_modules\path\node_modules\process
+180 silly install write writing util 0.10.3 to C:\Users\Administrator\Desktop\node训练\blogs\node_modules\path\node_modules\util
+181 verbose unbuild node_modules\path\node_modules\process
+182 verbose unbuild node_modules\path\node_modules\util
+183 silly gentlyRm C:\Users\Administrator\Desktop\node训练\blogs\node_modules\path\node_modules\process is being purged from base C:\Users\Administrator\Desktop\node训练\blogs
+184 verbose gentlyRm don't care about contents; nuking C:\Users\Administrator\Desktop\node训练\blogs\node_modules\path\node_modules\process
+185 verbose tar unpack C:\Users\Administrator\AppData\Roaming\npm-cache\process\0.11.9\package.tgz
+186 verbose tar unpacking to C:\Users\Administrator\Desktop\node训练\blogs\node_modules\path\node_modules\process
+187 silly gentlyRm C:\Users\Administrator\Desktop\node训练\blogs\node_modules\path\node_modules\process is being purged
+188 verbose gentlyRm don't care about contents; nuking C:\Users\Administrator\Desktop\node训练\blogs\node_modules\path\node_modules\process
+189 silly gentlyRm C:\Users\Administrator\Desktop\node训练\blogs\node_modules\path\node_modules\util is being purged from base C:\Users\Administrator\Desktop\node训练\blogs
+190 verbose gentlyRm don't care about contents; nuking C:\Users\Administrator\Desktop\node训练\blogs\node_modules\path\node_modules\util
+191 silly gunzTarPerm modes [ '777', '666' ]
+192 verbose tar unpack C:\Users\Administrator\AppData\Roaming\npm-cache\util\0.10.3\package.tgz
+193 verbose tar unpacking to C:\Users\Administrator\Desktop\node训练\blogs\node_modules\path\node_modules\util
+194 silly gentlyRm C:\Users\Administrator\Desktop\node训练\blogs\node_modules\path\node_modules\util is being purged
+195 verbose gentlyRm don't care about contents; nuking C:\Users\Administrator\Desktop\node训练\blogs\node_modules\path\node_modules\util
+196 silly gunzTarPerm modes [ '777', '666' ]
+197 silly gunzTarPerm extractEntry package.json
+198 silly gunzTarPerm modified mode [ 'package.json', 420, 438 ]
+199 silly gunzTarPerm extractEntry package.json
+200 silly gunzTarPerm modified mode [ 'package.json', 420, 438 ]
+201 silly gunzTarPerm extractEntry .npmignore
+202 silly gunzTarPerm modified mode [ '.npmignore', 420, 438 ]
+203 silly gunzTarPerm extractEntry README.md
+204 silly gunzTarPerm modified mode [ 'README.md', 420, 438 ]
+205 silly gunzTarPerm extractEntry README.md
+206 silly gunzTarPerm modified mode [ 'README.md', 420, 438 ]
+207 silly gunzTarPerm extractEntry LICENSE
+208 silly gunzTarPerm modified mode [ 'LICENSE', 420, 438 ]
+209 silly gunzTarPerm extractEntry LICENSE
+210 silly gunzTarPerm modified mode [ 'LICENSE', 420, 438 ]
+211 silly gunzTarPerm extractEntry util.js
+212 silly gunzTarPerm modified mode [ 'util.js', 420, 438 ]
+213 silly gunzTarPerm extractEntry browser.js
+214 silly gunzTarPerm modified mode [ 'browser.js', 420, 438 ]
+215 silly gunzTarPerm extractEntry index.js
+216 silly gunzTarPerm modified mode [ 'index.js', 420, 438 ]
+217 silly gunzTarPerm extractEntry .travis.yml
+218 silly gunzTarPerm modified mode [ '.travis.yml', 420, 438 ]
+219 silly gunzTarPerm extractEntry test.js
+220 silly gunzTarPerm modified mode [ 'test.js', 420, 438 ]
+221 silly gunzTarPerm extractEntry .eslintrc
+222 silly gunzTarPerm modified mode [ '.eslintrc', 420, 438 ]
+223 silly gunzTarPerm extractEntry .zuul.yml
+224 silly gunzTarPerm modified mode [ '.zuul.yml', 420, 438 ]
+225 silly gunzTarPerm extractEntry support/isBuffer.js
+226 silly gunzTarPerm modified mode [ 'support/isBuffer.js', 420, 438 ]
+227 silly gunzTarPerm extractEntry support/isBufferBrowser.js
+228 silly gunzTarPerm modified mode [ 'support/isBufferBrowser.js', 420, 438 ]
+229 silly gunzTarPerm extractEntry test/browser/inspect.js
+230 silly gunzTarPerm modified mode [ 'test/browser/inspect.js', 420, 438 ]
+231 silly gunzTarPerm extractEntry test/browser/is.js
+232 silly gunzTarPerm modified mode [ 'test/browser/is.js', 420, 438 ]
+233 silly gunzTarPerm extractEntry test/node/debug.js
+234 silly gunzTarPerm modified mode [ 'test/node/debug.js', 420, 438 ]
+235 silly gunzTarPerm extractEntry test/node/format.js
+236 silly gunzTarPerm modified mode [ 'test/node/format.js', 420, 438 ]
+237 silly gunzTarPerm extractEntry test/node/inspect.js
+238 silly gunzTarPerm modified mode [ 'test/node/inspect.js', 420, 438 ]
+239 silly gunzTarPerm extractEntry test/node/log.js
+240 silly gunzTarPerm modified mode [ 'test/node/log.js', 420, 438 ]
+241 silly gunzTarPerm extractEntry test/node/util.js
+242 silly gunzTarPerm modified mode [ 'test/node/util.js', 420, 438 ]
+243 verbose write writing to C:\Users\Administrator\Desktop\node训练\blogs\node_modules\path\node_modules\process\package.json
+244 info preinstall process@0.11.9
+245 verbose readDependencies loading dependencies from C:\Users\Administrator\Desktop\node训练\blogs\node_modules\path\node_modules\process\package.json
+246 verbose readDependencies loading dependencies from C:\Users\Administrator\Desktop\node训练\blogs\node_modules\path\node_modules\process\package.json
+247 silly install resolved []
+248 verbose about to build C:\Users\Administrator\Desktop\node训练\blogs\node_modules\path\node_modules\process
+249 info build C:\Users\Administrator\Desktop\node训练\blogs\node_modules\path\node_modules\process
+250 info linkStuff process@0.11.9
+251 silly linkStuff process@0.11.9 has C:\Users\Administrator\Desktop\node训练\blogs\node_modules\path\node_modules as its parent node_modules
+252 verbose linkBins process@0.11.9
+253 verbose linkMans process@0.11.9
+254 verbose rebuildBundles process@0.11.9
+255 info install process@0.11.9
+256 info postinstall process@0.11.9
+257 verbose unlock done using C:\Users\Administrator\AppData\Roaming\npm-cache\_locks\process-6d83f2f3275fe63f.lock for C:\Users\Administrator\Desktop\node训练\blogs\node_modules\path\node_modules\process
+258 verbose write writing to C:\Users\Administrator\Desktop\node训练\blogs\node_modules\path\node_modules\util\package.json
+259 info preinstall util@0.10.3
+260 verbose readDependencies loading dependencies from C:\Users\Administrator\Desktop\node训练\blogs\node_modules\path\node_modules\util\package.json
+261 silly prepareForInstallMany adding inherits@2.0.1 from util dependencies
+262 verbose readDependencies loading dependencies from C:\Users\Administrator\Desktop\node训练\blogs\node_modules\path\node_modules\util\package.json
+263 silly cache add args [ 'inherits@2.0.1', null ]
+264 verbose cache add spec inherits@2.0.1
+265 silly cache add parsed spec Result {
+265 silly cache add   raw: 'inherits@2.0.1',
+265 silly cache add   scope: null,
+265 silly cache add   name: 'inherits',
+265 silly cache add   rawSpec: '2.0.1',
+265 silly cache add   spec: '2.0.1',
+265 silly cache add   type: 'version' }
+266 silly addNamed inherits@2.0.1
+267 verbose addNamed "2.0.1" is a plain semver version for inherits
+268 silly mapToRegistry name inherits
+269 silly mapToRegistry using default registry
+270 silly mapToRegistry registry https://registry.npmjs.org/
+271 silly mapToRegistry data Result {
+271 silly mapToRegistry   raw: 'inherits',
+271 silly mapToRegistry   scope: null,
+271 silly mapToRegistry   name: 'inherits',
+271 silly mapToRegistry   rawSpec: '',
+271 silly mapToRegistry   spec: 'latest',
+271 silly mapToRegistry   type: 'tag' }
+272 silly mapToRegistry uri https://registry.npmjs.org/inherits
+273 verbose addNameVersion registry:https://registry.npmjs.org/inherits not in flight; fetching
+274 verbose request uri https://registry.npmjs.org/inherits
+275 verbose request no auth needed
+276 info attempt registry request try #1 at 21:26:56
+277 verbose etag W/"5881edff-2213"
+278 verbose lastModified Fri, 20 Jan 2017 11:01:19 GMT
+279 http request GET https://registry.npmjs.org/inherits
+280 http 304 https://registry.npmjs.org/inherits
+281 verbose headers { date: 'Thu, 23 Mar 2017 13:26:55 GMT',
+281 verbose headers   via: '1.1 varnish',
+281 verbose headers   'cache-control': 'max-age=300',
+281 verbose headers   etag: 'W/"5881edff-2213"',
+281 verbose headers   age: '47',
+281 verbose headers   connection: 'keep-alive',
+281 verbose headers   'x-served-by': 'cache-nrt6131-NRT',
+281 verbose headers   'x-cache': 'HIT',
+281 verbose headers   'x-cache-hits': '4',
+281 verbose headers   'x-timer': 'S1490275615.625265,VS0,VE0',
+281 verbose headers   vary: 'Accept-Encoding' }
+282 silly get cb [ 304,
+282 silly get   { date: 'Thu, 23 Mar 2017 13:26:55 GMT',
+282 silly get     via: '1.1 varnish',
+282 silly get     'cache-control': 'max-age=300',
+282 silly get     etag: 'W/"5881edff-2213"',
+282 silly get     age: '47',
+282 silly get     connection: 'keep-alive',
+282 silly get     'x-served-by': 'cache-nrt6131-NRT',
+282 silly get     'x-cache': 'HIT',
+282 silly get     'x-cache-hits': '4',
+282 silly get     'x-timer': 'S1490275615.625265,VS0,VE0',
+282 silly get     vary: 'Accept-Encoding' } ]
+283 verbose etag https://registry.npmjs.org/inherits from cache
+284 verbose get saving inherits to C:\Users\Administrator\AppData\Roaming\npm-cache\registry.npmjs.org\inherits\.cache.json
+285 verbose correctMkdir C:\Users\Administrator\AppData\Roaming\npm-cache correctMkdir not in flight; initializing
+286 silly cache afterAdd inherits@2.0.1
+287 verbose afterAdd C:\Users\Administrator\AppData\Roaming\npm-cache\inherits\2.0.1\package\package.json not in flight; writing
+288 verbose correctMkdir C:\Users\Administrator\AppData\Roaming\npm-cache correctMkdir not in flight; initializing
+289 verbose afterAdd C:\Users\Administrator\AppData\Roaming\npm-cache\inherits\2.0.1\package\package.json written
+290 silly install resolved [ { name: 'inherits',
+290 silly install resolved     description: 'Browser-friendly inheritance fully compatible with standard node.js inherits()',
+290 silly install resolved     version: '2.0.1',
+290 silly install resolved     keywords:
+290 silly install resolved      [ 'inheritance',
+290 silly install resolved        'class',
+290 silly install resolved        'klass',
+290 silly install resolved        'oop',
+290 silly install resolved        'object-oriented',
+290 silly install resolved        'inherits',
+290 silly install resolved        'browser',
+290 silly install resolved        'browserify' ],
+290 silly install resolved     main: './inherits.js',
+290 silly install resolved     browser: './inherits_browser.js',
+290 silly install resolved     repository: { type: 'git', url: 'git://github.com/isaacs/inherits.git' },
+290 silly install resolved     license: 'ISC',
+290 silly install resolved     scripts: { test: 'node test' },
+290 silly install resolved     bugs: { url: 'https://github.com/isaacs/inherits/issues' },
+290 silly install resolved     _id: 'inherits@2.0.1',
+290 silly install resolved     dist:
+290 silly install resolved      { shasum: 'b17d08d326b4423e568eff719f91b0b1cbdf69f1',
+290 silly install resolved        tarball: 'https://registry.npmjs.org/inherits/-/inherits-2.0.1.tgz' },
+290 silly install resolved     _from: 'inherits@2.0.1',
+290 silly install resolved     _npmVersion: '1.3.8',
+290 silly install resolved     _npmUser: { name: 'isaacs', email: 'i@izs.me' },
+290 silly install resolved     maintainers: [ [Object] ],
+290 silly install resolved     directories: {},
+290 silly install resolved     _shasum: 'b17d08d326b4423e568eff719f91b0b1cbdf69f1',
+290 silly install resolved     _resolved: 'https://registry.npmjs.org/inherits/-/inherits-2.0.1.tgz',
+290 silly install resolved     readme: 'ERROR: No README data found!',
+290 silly install resolved     homepage: 'https://github.com/isaacs/inherits#readme' } ]
+291 info install inherits@2.0.1 into C:\Users\Administrator\Desktop\node训练\blogs\node_modules\path\node_modules\util
+292 info installOne inherits@2.0.1
+293 verbose installOne of inherits to C:\Users\Administrator\Desktop\node训练\blogs\node_modules\path\node_modules\util not in flight; installing
+294 verbose correctMkdir C:\Users\Administrator\AppData\Roaming\npm-cache\_locks correctMkdir not in flight; initializing
+295 verbose lock using C:\Users\Administrator\AppData\Roaming\npm-cache\_locks\inherits-fd0172021fb4c879.lock for C:\Users\Administrator\Desktop\node训练\blogs\node_modules\path\node_modules\util\node_modules\inherits
+296 silly install write writing inherits 2.0.1 to C:\Users\Administrator\Desktop\node训练\blogs\node_modules\path\node_modules\util\node_modules\inherits
+297 verbose unbuild node_modules\path\node_modules\util\node_modules\inherits
+298 silly gentlyRm C:\Users\Administrator\Desktop\node训练\blogs\node_modules\path\node_modules\util\node_modules\inherits is being purged from base C:\Users\Administrator\Desktop\node训练\blogs
+299 verbose gentlyRm don't care about contents; nuking C:\Users\Administrator\Desktop\node训练\blogs\node_modules\path\node_modules\util\node_modules\inherits
+300 verbose tar unpack C:\Users\Administrator\AppData\Roaming\npm-cache\inherits\2.0.1\package.tgz
+301 verbose tar unpacking to C:\Users\Administrator\Desktop\node训练\blogs\node_modules\path\node_modules\util\node_modules\inherits
+302 silly gentlyRm C:\Users\Administrator\Desktop\node训练\blogs\node_modules\path\node_modules\util\node_modules\inherits is being purged
+303 verbose gentlyRm don't care about contents; nuking C:\Users\Administrator\Desktop\node训练\blogs\node_modules\path\node_modules\util\node_modules\inherits
+304 silly gunzTarPerm modes [ '777', '666' ]
+305 silly gunzTarPerm extractEntry package.json
+306 silly gunzTarPerm modified mode [ 'package.json', 420, 438 ]
+307 silly gunzTarPerm extractEntry README.md
+308 silly gunzTarPerm modified mode [ 'README.md', 420, 438 ]
+309 silly gunzTarPerm extractEntry LICENSE
+310 silly gunzTarPerm modified mode [ 'LICENSE', 420, 438 ]
+311 silly gunzTarPerm extractEntry inherits.js
+312 silly gunzTarPerm modified mode [ 'inherits.js', 420, 438 ]
+313 silly gunzTarPerm extractEntry inherits_browser.js
+314 silly gunzTarPerm modified mode [ 'inherits_browser.js', 420, 438 ]
+315 silly gunzTarPerm extractEntry test.js
+316 silly gunzTarPerm modified mode [ 'test.js', 420, 438 ]
+317 verbose write writing to C:\Users\Administrator\Desktop\node训练\blogs\node_modules\path\node_modules\util\node_modules\inherits\package.json
+318 info preinstall inherits@2.0.1
+319 verbose readDependencies loading dependencies from C:\Users\Administrator\Desktop\node训练\blogs\node_modules\path\node_modules\util\node_modules\inherits\package.json
+320 verbose readDependencies loading dependencies from C:\Users\Administrator\Desktop\node训练\blogs\node_modules\path\node_modules\util\node_modules\inherits\package.json
+321 silly install resolved []
+322 verbose about to build C:\Users\Administrator\Desktop\node训练\blogs\node_modules\path\node_modules\util\node_modules\inherits
+323 info build C:\Users\Administrator\Desktop\node训练\blogs\node_modules\path\node_modules\util\node_modules\inherits
+324 info linkStuff inherits@2.0.1
+325 silly linkStuff inherits@2.0.1 has C:\Users\Administrator\Desktop\node训练\blogs\node_modules\path\node_modules\util\node_modules as its parent node_modules
+326 verbose linkBins inherits@2.0.1
+327 verbose linkMans inherits@2.0.1
+328 verbose rebuildBundles inherits@2.0.1
+329 info install inherits@2.0.1
+330 info postinstall inherits@2.0.1
+331 verbose unlock done using C:\Users\Administrator\AppData\Roaming\npm-cache\_locks\inherits-fd0172021fb4c879.lock for C:\Users\Administrator\Desktop\node训练\blogs\node_modules\path\node_modules\util\node_modules\inherits
+332 verbose about to build C:\Users\Administrator\Desktop\node训练\blogs\node_modules\path\node_modules\util
+333 info build C:\Users\Administrator\Desktop\node训练\blogs\node_modules\path\node_modules\util
+334 info linkStuff util@0.10.3
+335 silly linkStuff util@0.10.3 has C:\Users\Administrator\Desktop\node训练\blogs\node_modules\path\node_modules as its parent node_modules
+336 verbose linkBins util@0.10.3
+337 verbose linkMans util@0.10.3
+338 verbose rebuildBundles util@0.10.3
+339 verbose rebuildBundles [ 'inherits' ]
+340 info install util@0.10.3
+341 info postinstall util@0.10.3
+342 verbose unlock done using C:\Users\Administrator\AppData\Roaming\npm-cache\_locks\util-50f50a1c1bc19f5c.lock for C:\Users\Administrator\Desktop\node训练\blogs\node_modules\path\node_modules\util
+343 verbose about to build C:\Users\Administrator\Desktop\node训练\blogs\node_modules\path
+344 info build C:\Users\Administrator\Desktop\node训练\blogs\node_modules\path
+345 info linkStuff path@0.12.7
+346 silly linkStuff path@0.12.7 has C:\Users\Administrator\Desktop\node训练\blogs\node_modules as its parent node_modules
+347 verbose linkBins path@0.12.7
+348 verbose linkMans path@0.12.7
+349 verbose rebuildBundles path@0.12.7
+350 verbose rebuildBundles [ 'process', 'util' ]
+351 info install path@0.12.7
+352 info postinstall path@0.12.7
+353 verbose unlock done using C:\Users\Administrator\AppData\Roaming\npm-cache\_locks\path-e0bae3467de0e485.lock for C:\Users\Administrator\Desktop\node训练\blogs\node_modules\path
+354 verbose validateInstall loading C:\Users\Administrator\Desktop\node训练\blogs\package.json for validation
+355 verbose stack Error: The package grunt@1.0.1 does not satisfy its siblings' peerDependencies requirements!
+355 verbose stack     at C:\Program Files\nodejs\node_modules\npm\lib\install.js:125:32
+355 verbose stack     at C:\Program Files\nodejs\node_modules\npm\lib\install.js:268:7
+355 verbose stack     at C:\Program Files\nodejs\node_modules\npm\node_modules\read-installed\read-installed.js:142:5
+355 verbose stack     at C:\Program Files\nodejs\node_modules\npm\node_modules\read-installed\read-installed.js:263:14
+355 verbose stack     at cb (C:\Program Files\nodejs\node_modules\npm\node_modules\slide\lib\async-map.js:47:24)
+355 verbose stack     at C:\Program Files\nodejs\node_modules\npm\node_modules\read-installed\read-installed.js:263:14
+355 verbose stack     at cb (C:\Program Files\nodejs\node_modules\npm\node_modules\slide\lib\async-map.js:47:24)
+355 verbose stack     at C:\Program Files\nodejs\node_modules\npm\node_modules\read-installed\read-installed.js:263:14
+355 verbose stack     at cb (C:\Program Files\nodejs\node_modules\npm\node_modules\slide\lib\async-map.js:47:24)
+355 verbose stack     at C:\Program Files\nodejs\node_modules\npm\node_modules\read-installed\read-installed.js:263:14
+356 verbose cwd C:\Users\Administrator\Desktop\node训练\blogs
+357 error Windows_NT 6.1.7601
+358 error argv "C:\\Program Files\\nodejs\\node.exe" "C:\\Program Files\\nodejs\\node_modules\\npm\\bin\\npm-cli.js" "install" "path" "-sav"
+359 error node v4.4.3
+360 error npm  v2.15.1
+361 error code EPEERINVALID
+362 error peerinvalid The package grunt@1.0.1 does not satisfy its siblings' peerDependencies requirements!
+362 error peerinvalid Peer grunt-contrib-jshint@0.1.1 wants grunt@~0.4.0
+362 error peerinvalid Peer grunt-concurrent@2.3.1 wants grunt@>=0.4.0
+362 error peerinvalid Peer grunt-contrib-nodeunit@0.1.2 wants grunt@~0.4.0
+362 error peerinvalid Peer grunt-nodemon@0.4.2 wants grunt@>=0.4.0
+363 verbose exit [ 1, true ]
